@@ -31,7 +31,7 @@
     "current_stack": ["React", "Django", "Node.js", "Cloud Infrastructure", "APIs"]
   },
   "active_processes": {
-    "exploring": ["LLM Architectures", "LangChain", "LangGraph", "Pinecone"],
+    "exploring": ["LLM Architectures", "LangChain", "LangGraph", "VectorDB"],
     "core_directive": "Deploy applications that don't just execute, they reason."
     ""
   }
@@ -39,7 +39,7 @@
 ```
 ---
 
-* 🚀 **Built:** TrustBridge (AI credit scoring), InternSpark (AI internship prep), RespiGuard — real-world AI systems.
+* 🚀 **Built:** TrustBridge (AI credit scoring), InternSpark (AI internship prep), RespiGuard — and many other real-world AI systems.
 * ⚡ **Experience:** Hands-on with LLM observability, semantic search, and time-series prediction; Oracle Generative AI Professional.
 * 🏆 **Hackathons:** SIH, Google Solution Challenge, Bharatiya Antariksh Hackathon, HackHazards, Binary v2 — building end-to-end under pressure.
 * 🌱 **Philosophy:** Learn by building, stay curious, and focus on creating impactful, end-to-end systems.
@@ -120,7 +120,7 @@
 
 ## 🥑 Community & Hackathons
 
-* 🏛️ **GDG Lead** for Dr. B.C. Roy Engineering College Campus.
+* 🏛️ **GDGoC Co-Lead** for Dr. B.C. Roy Engineering College Campus.
 * 💻 **Active Hacker**: Selected for BINARY 2.0, Hack Zenith 2026, and the Bharatiya Antariksh Hackathon 2025.
 * 🏆 **Open Source**: Hacktoberfest 2025 Level 2 Holophin badge earner.
 * 📜 **Certifications**: Oracle Generative AI Professional (1Z0-1127-25).
