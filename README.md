@@ -19,15 +19,25 @@
   <img src="https://img.shields.io/github/followers/tulu-g559?style=for-the-badge" />
 </p>
 
----
-
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
 ```
-- CS undergrad building at the intersection of AI × full-stack.
-- Started with Python and C++, now shipping scalable apps using React, Django, Node.js, and cloud.
-- Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused on building apps that don’t just run, but think.
+{
+  "user": "ArnabG",
+  "title": "CS Undergrad | AI × Full-Stack Engineer",
+  "status": "Compiling ideas into intelligent systems",
+  "evolution": {
+    "roots": ["Python", "C++", "Java"],
+    "current_stack": ["React", "Django", "Node.js", "Cloud Infrastructure", "APIs"]
+  },
+  "active_processes": {
+    "exploring": ["LLM Architectures", "LangChain", "LangGraph", "Pinecone"],
+    "core_directive": "Deploy applications that don't just execute, they reason."
+    ""
+  }
+}
 ```
+---
 
 * 🚀 **Built:** TrustBridge (AI credit scoring), InternSpark (AI internship prep), RespiGuard — real-world AI systems.
 * ⚡ **Experience:** Hands-on with LLM observability, semantic search, and time-series prediction; Oracle Generative AI Professional.
@@ -75,9 +85,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
 </p>
 
----
-
-## ⚡ AI & Tools I Work With
+### ⚡ AI & Tools I Work With
 
 - 🧩 LangChain, LangGraph  
 - 🔍 Vector DBs (Pinecone)  
@@ -98,7 +106,6 @@
 
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
@@ -119,8 +126,6 @@
 * 💻 **Active Hacker**: Selected for BINARY 2.0, Hack Zenith 2026, and the Bharatiya Antariksh Hackathon 2025.
 * 🏆 **Open Source**: Hacktoberfest 2025 Level 2 Holophin badge earner.
 * 📜 **Certifications**: Oracle Generative AI Professional (1Z0-1127-25).
-
----
 
 ## 🤝 Let's Collaborate!
 
