@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
 </div>
 
-<h1 align="center">Hey, I'm ArnabG</h1>
+<h1 align="center">Hey, I'm ArnabG 😉</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a363c580-aaf3-4246-aa4d-d2d255fa239c" width="250"/>
@@ -96,12 +96,10 @@
 ## 🏆 Open Source & Achievements
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/JWOC%202025-Top%2010-blueviolet?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Hacktoberfest-Completed-orange?style=for-the-badge&logo=hacktoberfest" />
-<img src="https://img.shields.io/badge/SWOC-Contributor-success?style=for-the-badge&logo=opensourceinitiative" />
-<img src="https://img.shields.io/badge/Open%20Source-Active%20Contributor-black?style=for-the-badge&logo=github" />
-
+  <img src="https://img.shields.io/badge/JWOC_2025-Top_10-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="JWOC 2025" />
+  <img src="https://img.shields.io/badge/Hacktoberfest_'25-Level_2_Holophin-FF73CA?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=181717" alt="Hacktoberfest" />
+  <img src="https://img.shields.io/badge/SWOC-Contributor-00B4D8?style=for-the-badge&logo=git&logoColor=white&labelColor=181717" alt="SWOC" />
+  <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-2EA043?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=181717" alt="Open Source" />
 </div>
 
 
