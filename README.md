@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60"/>
 </div>
 
-<h1 align="center">I'm Arnab</h1>
+<h1 align="center">Hey, I'm ArnabG</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a363c580-aaf3-4246-aa4d-d2d255fa239c" width="250"/>
@@ -101,35 +101,38 @@ Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused o
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tulu-g559?theme=github-dark&cardType=github" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tulu-g559&theme=transparent&hide_border=true" />
-</p>
-
 <div align="center">
-  <img height="250em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tulu-g559&theme=github_dark" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tulu-g559?theme=github-dark&cardType=github" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tulu-g559&theme=transparent&hide_border=true" height="195" alt="GitHub Streak" />
 </div>
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tulu-g559&theme=github_dark" height="200" alt="Top Languages" />
+</div>
+
+---
+
+## 🥑 Community & Hackathons
+
+* 🏛️ **GDG Lead** for Dr. B.C. Roy Engineering College Campus.
+* 💻 **Active Hacker**: Selected for BINARY 2.0, Hack Zenith 2026, and the Bharatiya Antariksh Hackathon 2025.
+* 🏆 **Open Source**: Hacktoberfest 2025 Level 2 Holophin badge earner.
+* 📜 **Certifications**: Oracle Generative AI Professional (1Z0-1127-25).
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
   <a href="https://github.com/tulu-g559" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://www.linkedin.com/in/arnab-g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <a href="https://x.com/i_arnab_g" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<br>
