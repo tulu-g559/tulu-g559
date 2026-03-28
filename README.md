@@ -23,10 +23,11 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
-I don’t just build apps—I build systems that think.
-CS undergrad building at the intersection of AI × full-stack.
-Started with Python and C++, now shipping scalable apps using React, Django, Node.js, and cloud.
-Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused on building apps that don’t just run, but think.
+```
+- CS undergrad building at the intersection of AI × full-stack.
+- Started with Python and C++, now shipping scalable apps using React, Django, Node.js, and cloud.
+- Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused on building apps that don’t just run, but think.
+```
 
 * 🚀 **Built:** TrustBridge (AI credit scoring), InternSpark (AI internship prep), RespiGuard — real-world AI systems.
 * ⚡ **Experience:** Hands-on with LLM observability, semantic search, and time-series prediction; Oracle Generative AI Professional.
@@ -121,9 +122,16 @@ Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused o
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Collaborate!
+
+Whether you want to discuss the future of LLMs, brainstorm a winning idea for the next big hackathon, or just debate Marvel vs. DC comic arcs—my inbox is always open. I'm always looking for exciting AI projects to contribute to and brilliant minds to learn from. Let's build something awesome together! 🚀
+
+<br>
 
 <div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/tulu-g559" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -136,3 +144,9 @@ Currently exploring LLM systems with LangChain, LangGraph,  Pinecone—focused o
 </div>
 
 <br>
+
+<div align="center">
+  <p><i>Building systems that don't just run, but reason.</i> 🧠✨</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
