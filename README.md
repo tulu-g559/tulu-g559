@@ -21,25 +21,32 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
-```
+
+## `$ whoami`
+
+```json
 {
-  "user": "ArnabG",
-  "title": "CS Undergrad | AI × Full-Stack Engineer",
+  "user":  "ArnabG",
+  "role":  "CS Undergrad → AI × Full-Stack Engineer",
   "status": "Compiling ideas into intelligent systems",
-  "evolution": {
-    "roots": ["Python", "C++", "Java"],
-    "current_stack": ["React", "Django", "Node.js", "Cloud Infrastructure", "APIs"]
+  "stack": {
+    "roots":   ["Python", "C++", "Java"],
+    "current": ["React", "Django", "Node.js", "Cloud", "APIs"]
   },
-  "active_processes": {
-    "exploring": ["LLM Architectures", "LangChain", "LangGraph", "VectorDB"],
-    "core_directive": "Deploy applications that don't just execute, they reason."
-    ""
-  }
+  "exploring": ["LLM Architectures", "LangChain", "LangGraph", "VectorDB"],
+  "directive": "Deploy applications that don't just execute — they reason."
 }
 ```
 ---
+## ⚡ What I've Built
 
-* 🚀 **Built:** TrustBridge (AI credit scoring), InternSpark (AI internship prep), RespiGuard — and many other real-world AI systems.
+| Project | Description |
+|---|---|
+| 🏦 **TrustBridge** | AI-powered credit scoring system |
+| 🎯 **InternSpark** | AI internship prep platform |
+| 🫁 **RespiGuard** | Real-world AI AQI+health monitoring system |
+| 🔐 **WrathOps** | AI-powered secret detection, risk classification & prevention CLI |
+
 * ⚡ **Experience:** Hands-on with LLM observability, semantic search, and time-series prediction; Oracle Generative AI Professional.
 * 🏆 **Hackathons:** SIH, Google Solution Challenge, Bharatiya Antariksh Hackathon, HackHazards, Binary v2 — building end-to-end under pressure.
 * 🌱 **Philosophy:** Learn by building, stay curious, and focus on creating impactful, end-to-end systems.
