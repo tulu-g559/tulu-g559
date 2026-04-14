@@ -93,13 +93,17 @@
 
 ---
 
-## 🏆 Open Source & Achievements
+
+## 🏆 Achievements & Open Source
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JWOC_2025-Top_10-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="JWOC 2025" />
-  <img src="https://img.shields.io/badge/Hacktoberfest_'25-Level_2_Holophin-FF73CA?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=181717" alt="Hacktoberfest" />
-  <img src="https://img.shields.io/badge/SWOC-Contributor-00B4D8?style=for-the-badge&logo=git&logoColor=white&labelColor=181717" alt="SWOC" />
-  <img src="https://img.shields.io/badge/Open_Source-Active_Contributor-2EA043?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=181717" alt="Open Source" />
+
+![JWOC 2025](https://img.shields.io/badge/JWOC_2025-Top_10-7B2CBF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_'25-Level_2_Holophin-FF73CA?style=for-the-badge&logo=hacktoberfest&logoColor=white&labelColor=0d1117)
+![SWOC](https://img.shields.io/badge/SWOC-Contributor-00B4D8?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
+![Oracle](https://img.shields.io/badge/Oracle_GenAI-Professional_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117)
+![Open Source](https://img.shields.io/badge/Open_Source-Active_Contributor-2EA043?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
+
 </div>
 
 
