@@ -110,12 +110,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tulu-g559?theme=github-dark&cardType=github" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tulu-g559&theme=transparent&hide_border=true" height="195" alt="GitHub Streak" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/tulu-g559?theme=github-dark&cardType=github" height="190"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tulu-g559&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="190"/>
 </div>
-<br>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tulu-g559&theme=github_dark" height="200" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tulu-g559&theme=github_dark" height="190"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tulu-g559&theme=github_dark&utcOffset=5.5" height="190"/>
 </div>
 
 ---
