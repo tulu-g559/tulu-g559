@@ -128,25 +128,17 @@
 * 🏆 **Open Source**: Hacktoberfest 2025 Level 2 Holophin badge earner.
 * 📜 **Certifications**: Oracle Generative AI Professional (1Z0-1127-25).
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect
 
-Whether you want to discuss the future of LLMs, brainstorm a winning idea for the next big hackathon, or just debate Marvel vs. DC comic arcs—my inbox is always open. I'm always looking for exciting AI projects to contribute to and brilliant minds to learn from. Let's build something awesome together! 🚀
-
-<br>
+> Whether it's the future of LLMs, a winning hackathon idea, or debating Marvel vs DC — my inbox is always open. Let's build something awesome. 🚀
 
 <div align="center">
-  <a href="https://github.com/tulu-g559" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/arnab-g/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/i_arnab_g" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-  </a>
-</div>
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-tulu--g559-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tulu-g559)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arnab--g-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-g/)
+[![X / Twitter](https://img.shields.io/badge/X-i__arnab__g-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/i_arnab_g)
+
+</div>
 
 <div align="center">
   <p><i>Building systems that don't just run, but reason.</i> 🧠✨</p>
