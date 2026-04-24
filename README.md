@@ -41,12 +41,13 @@
 ---
 ## ⚡ What I've Built
 
-| Project | Description |
-|---|---|
-| 🏦 **TrustBridge** | AI-powered credit scoring system |
-| 🎯 **InternSpark** | AI internship prep platform |
-| 🫁 **RespiGuard** | Real-world AI AQI+health monitoring system |
-| 🔐 **WrathOps** | AI-powered secret detection, risk classification & prevention CLI |
+| Project            | Description                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| 🏦 **TrustBridge** | P2P lending platform engineered with trust scoring, facial verification, simulated gov-ID pipelines, and scalable B2G-ready architecture              |
+| 🎯 **InternSpark** | AI-driven internship prep platform engineered with modular services, adaptive workflows, and real-time feedback systems         |
+| 🫁 **RespiGuard**  | End-to-end AQI + health monitoring system integrating data pipelines, predictive models, and responsive alert infrastructure    |
+| 🔐 **WrathOps**    | CLI-based security tool combining AI detection with robust system design, rule engines, and automated risk mitigation pipelines |
+
 
 * ⚡ **Experience:** Hands-on with LLM observability, semantic search, and time-series prediction; Oracle Generative AI Professional.
 * 🏆 **Hackathons:** SIH, Google Solution Challenge, Bharatiya Antariksh Hackathon, HackHazards, Binary v2 — building end-to-end under pressure.
