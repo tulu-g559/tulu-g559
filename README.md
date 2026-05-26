@@ -15,7 +15,7 @@
   AI Engineer in Progress | Full Stack Developer | Open Source Contributor
 </h3>
 <p align="center">
-  *In a 🥜 shell → <a href="https://tulu-g559.github.io/arnabg-portfolio">Click me!!</a>
+  <b><i>In a 🥜 shell → <a href="https://tulu-g559.github.io/arnabg-portfolio">Click me!!</a></i></b>
 </p>
 
 <p align="center">
@@ -25,10 +25,9 @@
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Animation" />
 
-
 ## `$ whoami`
 
-```json
+```
 {
   "user":  "ArnabG",
   "role":  "CS Undergrad → AI × Full-Stack Engineer",
