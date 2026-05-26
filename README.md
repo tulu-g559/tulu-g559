@@ -14,6 +14,9 @@
 <h3 align="center">
   AI Engineer in Progress | Full Stack Developer | Open Source Contributor
 </h3>
+<p align="center">
+  In a 🥜 shell: <a href="https://tulu-g559.github.io/arnabg-portfolio">Click me!!</a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tulu-g559&style=for-the-badge" />
