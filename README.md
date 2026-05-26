@@ -15,7 +15,7 @@
   AI Engineer in Progress | Full Stack Developer | Open Source Contributor
 </h3>
 <p align="center">
-  In a 🥜 shell: <a href="https://tulu-g559.github.io/arnabg-portfolio">Click me!!</a>
+  *In a 🥜 shell → <a href="https://tulu-g559.github.io/arnabg-portfolio">Click me!!</a>
 </p>
 
 <p align="center">
