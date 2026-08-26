@@ -12,7 +12,7 @@
 </div>
 
 <h3 align="center">
-  AI Engineer in Progress | Full Stack Developer | Open Source Contributor
+  AI Engineer in Progress | Open Source Contributor
 </h3>
 <p align="center">
   <b><i>In a 🥜 shell → <a href="https://tulu-g559.github.io/arnabg-portfolio">Check here!!</a></i></b>
